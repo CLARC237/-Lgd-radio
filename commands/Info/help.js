@@ -13,7 +13,7 @@ module.exports.run = async (client, message, args) => {
     .setThumbnail(client.user.displayAvatarURL())
     .setDescription(` **Informations** :\n\`help\`\n\n:radio: **Radio** :\n\`radio\``)
     .setColor(DEFAULT_COLOR)
-    .setFooter(`Nova World x WhiteHall`)
+    .setFooter(`Lgd-bot`)
     await message.reply({embeds: [i]})
 }
 
