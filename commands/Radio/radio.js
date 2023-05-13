@@ -243,5 +243,5 @@ module.exports.run = async (client, message, args) => {
 module.exports.help = {
     name: "radio",
     aliases: ["r"],
-    description: "Radio complète pour Nova World"
+    description: "Radio complète pour LGD-CHILL"
 }
