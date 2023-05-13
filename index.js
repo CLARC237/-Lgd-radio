@@ -1,6 +1,6 @@
 // Made By > 𝒍’𝒆́𝒕𝒐𝒊𝒍𝒆✰#0001
 const {Collection, Client, Intents} = require('discord.js')
-const {loadCommands, loadEvents} = require('./structure/loader.js')
+const {loadCommands, loadEvents} = require('../structure/loader.js')
 const {TOKEN} = require('./config.json')
 const inte = new Intents()
 

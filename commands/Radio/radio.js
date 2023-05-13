@@ -4,7 +4,7 @@ const {
 const { 
     MessageEmbed, MessageActionRow, MessageSelectMenu
 } = require('discord.js');
-const {DEFAULT_COLOR} = require('../../config.json')
+const {DEFAULT_COLOR} = require('../../Radio-Bot-main/config.json')
 
 
 const {CattoEmbed, timeoutDelete} = require('../../structure/functions');
